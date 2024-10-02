@@ -43,21 +43,16 @@
       <img src="https://github-readme-stats.vercel.app/api?username=fvckgrimm&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%">
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvckgrimm&theme=dark&hide_border=true&bg_color=0D1117" alt="Most Used Languages" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://media1.tenor.com/m/PExYmRtYzzsAAAAd/fuwamoco-fuwawa.gif" alt="Fuwamoco GIF" width="100%">
+    </td>
+  </tr>
 </table>
 
-
-<div align="center">
-  <table width="80%">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvckgrimm&theme=dark&hide_border=true&bg_color=0D1117" alt="Most Used Languages" width="100%">
-      </td>
-      <td width="50%">
-        <img src="https://media1.tenor.com/m/PExYmRtYzzsAAAAd/fuwamoco-fuwawa.gif" alt="Fuwamoco GIF" width="100%">
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fvckgrimm&label=Profile%20views&color=0e75b6&style=flat" alt="fvckgrimm" /> </p> -->
