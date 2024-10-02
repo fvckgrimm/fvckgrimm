@@ -6,11 +6,11 @@
   <div style="flex: 1;">
 
 - 🌱 I'm currently learning **rust**, the nerds won :/
-- 🫶 I really like automation scripting and using unnoficial api's
+- 🫶 I really like automation scripting and using unofficial api's
 
   </div>
   <div style="flex: 1;">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=fvckgrimm&show_icons=true&locale=en" alt="fvckgrimm" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=fvckgrimm&show_icons=true&locale=en&theme=transparent" alt="fvckgrimm" />
   </div>
 </div>
 <!--<h3 align="left">Connect with me:</h3>
