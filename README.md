@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm grimm</h1>
-<h3 align="center"> God's eepist tard who can't code</h3>
+<h3 align="center"> God's eepist tard who can't code, fake schizo privacy enthusiast, wannabe hackermanz  ᗜˬᗜ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fvckgrimm&label=Profile%20views&color=0e75b6&style=flat" alt="fvckgrimm" /> </p>
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
 
-- 🌱 I'm currently learning **rust**, the nerds won :/
-- 🫶 I really like automation scripting and using unofficial api's
+- I'm currently learning **rust**, the nerds won :/
+- I really like automation scripting and using unofficial api's
+- [gumpai](https://www.twitch.tv/gumpai_) pilled
+- [fuwamoco](https://www.youtube.com/@FUWAMOCOch/streams)(hololive) pilled
+
 
   </div>
   <div style="flex: 1;">
