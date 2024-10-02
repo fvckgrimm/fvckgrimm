@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm grimm</h1>
 <h3 align="center"> God's eepist tard who can't code, fake schizo privacy enthusiast, wannabe hackermanz  ᗜˬᗜ </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fvckgrimm&label=Profile%20views&color=0e75b6&style=flat" alt="fvckgrimm" /> </p>
+
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
 
@@ -50,6 +50,8 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fvckgrimm&label=Profile%20views&color=0e75b6&style=flat" alt="fvckgrimm" /> </p> -->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvckgrimm)](https://github.com/anuraghazra/github-readme-stats)-->
 
