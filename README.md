@@ -29,7 +29,7 @@
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a> 
     <a href="https://sourcegraph.com/cody/chat" target="_blank" rel="noreferrer">
-      <img src="https://sourcegraph.com/cody-logomark-default.svg" alt="sourcegraph cody" width="30" height="30">
+      <img src="https://web.archive.org/web/20241127040512/https://sourcegraph.com/cody-logomark-default.svg" alt="sourcegraph cody" width="30" height="30">
     </a>
   </p>
 </div>
