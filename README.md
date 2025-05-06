@@ -43,7 +43,7 @@
         <li>I really like automation scripting and using unofficial api's</li>
         <li>cat lover pilled</li>
         <li><a href="https://www.youtube.com/@FUWAMOCOch/streams">fuwamoco</a> (hololive) pilled</li>
-        <li><a href="https://www.twitch.tv/gumpai_](https://www.youtube.com/@gumpai">gumpai</a> pilled</li>
+        <li><a href="https://www.youtube.com/@JellyHoshiumi">jelly</a> (awawawa) pilled (i may fall into the invaders rabbit hole)</li>
       </ul>
     </td>
     <td valign="top" width="50%">
